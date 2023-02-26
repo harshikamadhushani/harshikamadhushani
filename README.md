@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Harshika Madhushani</h1>
 <h3 align="center">Software Engineering Undergraduate</h3>
-<img align="center" alter="coding" with="100" hight="100" src="https://cdnb.artstation.com/p/assets/images/images/028/991/999/original/anna-havrylyukh-.gif?1596125112">
+<p  align="center" ><img alter="coding" width="600px" height="400px" src="https://cdnb.artstation.com/p/assets/images/images/028/991/999/original/anna-havrylyukh-.gif?1596125112"></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshikamadhushani&label=Profile%20views&color=0e75b6&style=flat" alt="harshikamadhushani" /> </p>
 
