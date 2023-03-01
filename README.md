@@ -19,7 +19,7 @@
 <a href="https://linkedin.com/in/harshika98/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/harshika98/" height="30" width="40" /></a>
 <a href="https://instagram.com/harshikax9/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/harshikax9/" height="30" width="40" /></a>
 <a href="mailto:harshikaalgama@gmail.com?" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/5968/5968534.png" alt="harshikaalgama@gmail.com" height="30" width="40" /></a>
- <a href="https://www.hackerrank.com/harshikaalgama?hr_r=1" target="blank"><img align="center" src="https://pathrise-website-guide-wp.s3.us-west-1.amazonaws.com/guides/wp-content/uploads/2019/05/22174532/hackerrank-logo.jpg" alt="https://www.hackerrank.com/harshikaalgama?hr_r=1" height="30" width="40" /></a>
+ <a href="https://www.hackerrank.com/harshikaalgama?hr_r=1" target="blank"><img align="center" src="https://camo.githubusercontent.com/898f94be504f7baf1ddb0a2811152dab61cfd723e683b6947be9ffa3c879ccc4/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f362f36352f4861636b657252616e6b5f6c6f676f2e706e67" alt="https://www.hackerrank.com/harshikaalgama?hr_r=1" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
