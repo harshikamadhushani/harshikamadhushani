@@ -8,7 +8,7 @@
 
 <p> I'm a software engineering undergraduate with a passion for developing innovative programs that expedite the efficiency and effectiveness of organizational success .I am a good learner, innovative, I have a positive attitude, and committed to my work. I believe that I have good interpersonal and communication skills, which makes me getting along and working with people easily. </p>
 
-- 🌱 I’m currently learning **React, Node, Android Studio**
+- 🌱 I’m currently learning **Laravel**
 
 - 💬 Ask me about **HTML, CSS, JS, C, JAVA, C++, MYSQL**
 
